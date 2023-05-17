@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/file/d/1uJIZqpqC6XsrH8GtPIPGRWlIdKF_Jm8y/view)
+![Header](https://drive.google.com/uc?export=view&id=1uJIZqpqC6XsrH8GtPIPGRWlIdKF_Jm8y/view)
 
 <h1 align="center">Hi, I'm Angga Dwi Kurniawan👋</h1>
 <h3 align="center">Mehwhwhewhe.</h3>
