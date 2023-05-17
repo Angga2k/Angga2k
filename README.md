@@ -1,7 +1,7 @@
 ![Header](https://drive.google.com/uc?export=view&id=1uJIZqpqC6XsrH8GtPIPGRWlIdKF_Jm8y)
 
 <h1 align="center">Hi, I'm Angga Dwi Kurniawan👋</h1>
-<h3 align="center">Mehwhwhewhe.</h3>
+<h4 align="center">Welcome to my GitHub repository! Here, you'll find a collection of projects and code snippets that reflect my passion for coding.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angga2k&label=Profile%20views&color=0e75b6&style=flat" alt="angga2k" /> </p>
 
