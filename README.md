@@ -21,9 +21,6 @@
   <a href="https://github.com/angga2k?tab=repositories">
     <img src="https://badges.pufler.dev/repos/angga2k?color=0ea5e9&style=flat-square" alt="Repositories"/>
   </a>
-  <a href="https://github.com/angga2k?tab=followers">
-    <img src="https://badges.pufler.dev/followers/angga2k?color=0ea5e9&style=flat-square" alt="Followers"/>
-  </a>
 </p>
 
 <!-- Minimal Connect Section -->
