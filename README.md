@@ -32,9 +32,6 @@
   <a href="https://instagram.com/a.nggadwk_" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" height="24"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail" height="24"/>
-  </a>
 </p>
 
 <!-- Minimal Tech Stack -->
